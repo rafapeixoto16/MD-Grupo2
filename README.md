@@ -1,4 +1,4 @@
-# Topico2
+# Topico 2 - Suplementos alimentares e outros fármacos para prevenção de doenças
 Trabalho realizado pelo grupo referente ao tópico 2
 
 # Elementos
