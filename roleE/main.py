@@ -6,7 +6,7 @@ import agent2
 
 load_dotenv()
 
-query = "vitamin D supplementation benefits"
+query = "caffeine benefits"
 #query2 = "creatine is good if I do nothing"
 rag = rag2.rag2("papers",os.getenv("API_KEY_PINECONE"),3)
 results = rag.query_pinecone(query)
