@@ -1,0 +1,34 @@
+{
+    "medical_concept_terms": [
+      "immune function", "oxidative stress", "antioxidant properties", "cellular health", "immune response",
+      "inflammation", "anti-inflammatory effects", "pro-inflammatory cytokines", "anti-inflammatory cytokines",
+      "insulin sensitivity", "insulin resistance", "glucose metabolism", "lipid metabolism", "protein synthesis",
+      "mitochondrial function", "atp production", "cell signaling", "apoptosis", "autophagy", "necrosis",
+      "epigenetic regulation", "gene expression", "transcription factors", "enzyme kinetics", "receptor binding",
+      "cardiovascular system", "digestive system", "endocrine system", "immune system", "lymphatic system",
+      "muscular system", "nervous system", "reproductive system", "respiratory system", "skeletal system",
+      "urinary system", "integumentary system", "hematopoietic system", "hepatic function", "renal function",
+      "gastrointestinal function", "brain function", "pulmonary function", "cardiac function", "vascular function",
+      "biomarkers", "inflammatory markers", "crp", "esr", "ldl cholesterol", "hdl cholesterol", "triglycerides",
+      "hemoglobin a1c", "fasting glucose", "postprandial glucose", "blood pressure", "heart rate", "respiratory rate",
+      "body mass index", "body composition", "hormone levels", "neurotransmitters", "vitamins status", "minerals status",
+      "oxidative stress markers", "antioxidant capacity", "gut microbiome balance", "dna damage markers",
+      "pharmacokinetics", "pharmacodynamics", "drug metabolism", "first-pass metabolism", "bioavailability",
+      "half-life", "clearance rate", "therapeutic index", "minimum effective concentration", "toxicity threshold",
+      "drug interactions", "supplement interactions", "nutrient-drug interactions", "personalized medicine",
+      "precision nutrition", "nutrigenomics", "pharmacogenomics", "dose-response relationship", "tolerance development",
+      "side effects", "adverse reactions", "toxicity", "hepatotoxicity", "nephrotoxicity", "cardiotoxicity",
+      "neurotoxicity", "ototoxicity", "hematologic toxicity", "gastrointestinal toxicity", "skin reactions",
+      "allergic reactions", "hypersensitivity", "idiosyncratic reactions", "withdrawal effects", "rebound effects",
+      "contraindications", "drug resistance", "dependence", "addiction potential",
+      "clinical trials", "randomized controlled trials", "meta-analysis", "systematic review", "cohort studies",
+      "case-control studies", "cross-sectional studies", "observational studies", "in vitro studies", "in vivo studies",
+      "animal models", "human studies", "placebo effect", "nocebo effect", "efficacy", "effectiveness",
+      "safety profile", "risk-benefit ratio", "statistical significance", "clinical significance",
+      "pathophysiology", "etiology", "risk factors", "disease progression", "acute phase", "chronic phase",
+      "remission", "relapse", "comorbidities", "complications", "sequelae", "prognosis", "disease burden",
+      "morbidity", "mortality", "quality of life", "disability", "functional status", "disease management",
+      "preventive measures", "screening methods", "diagnostic criteria", "staging", "grading"
+    ]
+  }
+  
