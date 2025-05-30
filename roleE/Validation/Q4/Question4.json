@@ -1,0 +1,25 @@
+{
+  "Question4" :{
+    "question" : "Is it safe to take supplements without a prescription if I already take some medications?",
+     "preferences": {
+        "age": 23,
+        "health": "good",
+        "desiese" : "diabetes"
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 9
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 9.3
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 2\nJustificação: É mais concisa, clara e direta, transmitindo os principais riscos e orientações sem excesso de repetição ou detalhe clínico excessivo. Isso facilita a compreensão rápida e eficaz, especialmente para um público geral que busca orientação segura.",
+        "Claude Sonnet 4": "Resposta 2 é mais concisa e direta, destacando claramente os riscos de interações entre suplementos e medicamentos para diabetes, e fornece um aviso crucial sobre a consulta a um profissional de saúde de forma mais sucinta e clara.",
+        "Gemini 2.5 pro": "Escolho a Resposta 2.\nJustificativa: É mais concisa e direta ao ponto sobre os riscos de interação e a necessidade de consulta médica, sem a personalização específica de idade da Resposta 1.\n"
+    }
+  }
+}

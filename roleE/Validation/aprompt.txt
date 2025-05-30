@@ -1,0 +1,4 @@
+Atribui um valor entre 0 a 10 da para a resposta a seguinta pergunta. Esta mensagem é a resposta de um chatbot:
+
+
+Resposta:

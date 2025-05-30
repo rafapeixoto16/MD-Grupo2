@@ -1,0 +1,23 @@
+{
+  "Question12" :{
+    "question" : "Is biotin effective in strengthening hair and nails? If so, the color of the nails will change.",
+    "preferences": {
+        "age": 43
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 9.4
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 9.8
+    },
+    "Chosen": {
+        "ChatGPT-4o":" Resposta 2\n\nJustificação: A Resposta 2 é mais completa e crítica, oferecendo detalhes específicos sobre doses, limitações dos estudos e distinções entre tipos de evidência (como estudos de caso vs. ensaios robustos). Ela também cobre separadamente os efeitos em unhas e cabelo e contextualiza melhor a falta de evidência para mudanças na cor das unhas. É uma resposta mais informativa e cientificamente rigorosa.",
+        "Claude Sonnet 4": " Resposta 2.\nJustificação: A Resposta 2 fornece uma análise científica mais rigorosa e detalhada, incluindo dosagens específicas (2.5 mg/dia), diferenciação clara entre efeitos em unhas vs. cabelo, e avaliação crítica da qualidade da evidência (estudos pequenos, inconsistências), oferecendo uma perspetiva mais completa e cientificamente honesta.",
+        "Gemini 2.5 pro": "Resposta 2.\nJustificativa: Detalha melhor a evidência limitada e específica para cabelo e unhas, incluindo inconsistências nos estudos."
+    }
+  }
+}

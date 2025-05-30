@@ -1,0 +1,23 @@
+{
+  "Question7" :{
+    "question" : "Talk me more about Vitamin C. Oranges really have that much?",
+    "preferences": {
+        "age": 7
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 10,
+        "Gemini 2.5 pro": 9.6
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 9.4
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 1\nJustificação:\nResposta 1 é mais completa, técnica e cientificamente estruturada. Ela fornece dados exatos, explica o papel da vitamina C na prevenção de doenças, e responde diretamente à pergunta com mais profundidade, o que é típico de um chatbot bem treinado em fornecer respostas informativas e confiáveis.",
+        "Claude Sonnet 4": " A Resposta 1 é mais detalhada e fornece informações específicas sobre a quantidade de vitamina C em laranjas e outros alimentos, além de mencionar a porcentagem da ingestão diária recomendada, o que a torna mais informativa e precisa em relação à pergunta.",
+        "Gemini 2.5 pro": "Resposta 1.\nJustificativa: Contextualiza o teor de Vitamina C da laranja com a dose diária recomendada (78% DDR), respondendo mais eficazmente à dúvida \"Oranges really have that much?\"."
+    }
+  }
+}

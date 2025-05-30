@@ -1,0 +1,20 @@
+{
+  "Question13" :{
+    "question" : "What supplements help strengthen the immune system and also help cure possible flus?",
+    "DefaultModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 2\n\nJustificativa:\nA Resposta 2 é mais clara, organizada em tópicos com estrutura por suplemento, facilitando a leitura e compreensão. Também oferece informações práticas, como o uso de sprays nasais de zinco e ressalvas específicas sobre interações e condições pré-existentes. Isso torna a resposta mais útil e acessível para o leitor.",
+        "Claude Sonnet 4": "Escolho a Resposta 2.\nJustificação: A Resposta 2 apresenta a informação de forma muito mais organizada e acessível, com lista numerada clara para cada suplemento e seção dedicada às considerações especiais, facilitando a consulta e compreensão comparativamente ao formato contínuo da Resposta 1.",
+        "Gemini 2.5 pro": "Escolho a Resposta 2 porque é mais clara com a lista numerada e usa uma linguagem mais precisa (\"potentially aid in curing\") ao abordar o termo \"cura\"."
+    }
+  }
+}
