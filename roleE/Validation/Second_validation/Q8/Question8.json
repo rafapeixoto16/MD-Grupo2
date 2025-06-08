@@ -1,0 +1,25 @@
+{
+  "Question8" :{
+    "question" : "Omega-3 really helps heart health?",
+    "DefaultModel": {
+        "ChatGPT-4o": 9,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":" DEEPSEEK.\n\nJustificação: É mais detalhada, cita estudos clínicos específicos (como Diet and Reinfarction Trial e GISSI-Prevenzione), explica as possíveis razões para resultados conflitantes e oferece um resumo claro, equilibrado e fácil de compreender. Além disso, enfatiza a importância da consulta profissional, tornando-a mais completa e prática para o utilizador.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": " DEEPSEEK.\nJustificação: A resposta do DEEPSEEK é mais bem estruturada e concisa, apresentando a mesma informação científica de forma mais organizada. Inclui exemplos específicos de estudos clínicos (Diet and Reinfarction Trial, GISSI-Prevenzione), tem melhor fluxo narrativo com parágrafos mais equilibrados, e termina com um resumo claro que sintetiza os pontos principais antes da recomendação final.",
+        "Gemini 2.5 pro": "Escolho a resposta DEEPSEEK porque cita ensaios clínicos específicos pelo nome, conferindo-lhe maior autoridade científica e detalhe.\n"
+    },
+        "Manual": {
+        "Rafael": "Deepspeek",
+        "Tone": "Deepseek - informação do FDA",
+        "Tiago": "Deepseek - mais completa"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "Question4" :{
+    "question" : "Is it safe to take supplements without a prescription if I already take some medications?",
+     "preferences": {
+        "age": 23,
+        "health": "good",
+        "desiese" : "diabetes"
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":10,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":"DEEPSEEK\n\n\uD83D\uDCCC Justificação: A resposta DEEPSEEK é mais clara, objetiva e inclui exemplos concretos de reações adversas que podem ocorrer, o que aumenta a consciência do risco para o leitor. Além disso, está melhor estruturada e com linguagem mais acessível, mantendo o rigor técnico.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "DEEPSEEK.\nJustificativa: A resposta DEEPSEEK é superior por sua estrutura mais clara com parágrafos bem definidos, inclusão de sinais de alerta específicos para emergências médicas, resumo final eficaz, e melhor organização geral, enquanto a resposta LLAMA contém uma frase final confusa e é menos estruturada.",
+        "Gemini 2.5 pro": "Escolho a resposta DEEPSEEK porque, para além do aviso, instrui o utilizador sobre o que fazer em caso de reações adversas, sendo mais completa e segura.\n"
+    },
+     "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - mais direta",
+        "Tiago": "Deepseek"
+    }
+  }
+}

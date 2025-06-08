@@ -1,0 +1,25 @@
+{
+  "Question1" :{
+    "question" : "What is the difference between a dietary supplement and a medicine?",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 6.5,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 7.5,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolha: DEEPSEEK\n\nJustificação:\nA resposta DEEPSEEK é mais concisa, direta e organizada, explicando claramente as diferenças entre suplementos e medicamentos com base em finalidade, regulação e função. Usa uma linguagem levemente mais fluida e moderna, com uma conclusão prática que reforça a necessidade de consulta profissional. Isso é típico de respostas de chatbot, que costumam sintetizar informações com clareza e objetividade, mantendo uma linguagem neutra e informativa.",
+        "Claude Sonnet 4": "Escolho a resposta LLAMA porque fornece uma explicação mais detalhada e estruturada sobre as diferenças entre suplementos e medicamentos, especificando claramente os ingredientes típicos dos suplementos (vitaminas, minerais, ervas e aminoácidos), explicando o papel da FDA na regulamentação de ambos os produtos, e enfatizando a responsabilidade das empresas de suplementos quanto à segurança e veracidade de seus produtos, oferecendo assim uma visão mais completa do tema em comparação com a resposta mais concisa do DEEPSEEK.",
+        "Gemini 2.5 pro": " Escolho a resposta DEEPSEEK porque a sua estrutura comparativa é mais direta, concisa e clara.\n"
+    },
+                "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - explicação mais estruturada",
+        "Tiago": "Lllama - mais clara e concisa, vai direta ao ponto"
+    }
+  }
+}

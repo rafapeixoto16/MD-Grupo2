@@ -1,0 +1,20 @@
+{
+  "Question15" :{
+    "question" : "\nCan prolonged use of mediacation can cause nutritional deficiencies? If so, at what age?",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 9
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 9
+    },
+    "Chosen": {
+        "ChatGPT-4o":" Resposta 1 porque aborda de forma mais direta que a deficiência pode ocorrer em qualquer idade, incluindo jovens, e não só em idosos, oferecendo um panorama mais completo e realista do risco, além de destacar grupos específicos e a importância do acompanhamento profissional.",
+        "Claude Sonnet 4": "Resposta 1.\n\nJustificação: A Resposta 1 é mais abrangente e clara, fornecendo uma explicação detalhada sobre como o uso prolongado de medicamentos pode levar a deficiências nutricionais em diferentes grupos de idade, incluindo exemplos específicos e recomendações para prevenção e tratamento.",
+        "Gemini 2.5 pro": "A Resposta 1 é mais completa ao abordar a questão da idade de forma explícita (\"Em qualquer idade, incluindo 22\") e ao identificar mais grupos de risco."
+    }
+  }
+}

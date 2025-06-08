@@ -1,0 +1,25 @@
+{
+  "Question1" :{
+    "question" : "What kind of supplements can help with mental health?",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolha: DEEPSEEK\n\nJustificação: A resposta DEEPSEEK é mais direta, concisa e organizada, menciona condições específicas como ansiedade, depressão e declínio cognitivo, e relaciona os suplementos com mecanismos fisiológicos claros, o que facilita a compreensão. Além disso, inclui uma lista abrangente e equilibrada de suplementos com respaldo científico, sem perder clareza.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "Escolho a resposta LLAMA porque, além de listar os suplementos relevantes, fornece explicações mais detalhadas sobre os mecanismos de ação (como efeitos anti-inflamatórios e modulação de neurotransmissores), aborda a conexão intestino-cérebro através dos probióticos, e oferece um contexto mais específico para certas condições como fibromialgia, tornando a resposta mais informativa e cientificamente fundamentada, mesmo que ambas as respostas compartilhem referências similares.",
+        "Gemini 2.5 pro": " Escolho a resposta LLAMA porque é mais detalhada e educativa, explicando os mecanismos de ação de diferentes categorias de suplementos.\n"
+    },
+    "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - resposta mais organizada",
+        "Tiago": "Deepseek - mais clara e completa"
+    }
+  }
+}

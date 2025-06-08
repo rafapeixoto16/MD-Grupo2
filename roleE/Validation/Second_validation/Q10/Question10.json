@@ -1,0 +1,29 @@
+{
+  "Question10" :{
+    "question" : "What is the function of magnesium in the body, and how can I get more if I'm deficient?",
+    "preferences": {
+        "age": 43,
+        "illness":"leukemia"
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 6,
+        "Gemini 2.5 pro": 9
+    },
+    "Chosen": {
+        "ChatGPT-4o":"DEEPSEEK.\n\nJustificação: A resposta DEEPSEEK é mais direta e fácil de entender, listando claramente as funções do magnésio e dando exemplos práticos de alimentos para aumentar a ingestão, além de reforçar a importância de consultar um profissional. A resposta LLAMA, apesar de detalhada, inclui informações técnicas como níveis séricos que podem ser complexas para o público geral, tornando a DEEPSEEK mais acessível como resposta de chatbot.",
+        "Claude Sonnet 4": "Escolho a resposta do DEEPSEEK.\nJustificação: A resposta do DEEPSEEK é mais clara, concisa e prática. Apresenta a informação de forma mais acessível, fornece exemplos específicos de alimentos ricos em magnésio (vegetais folhosos, nozes, sementes, grãos integrais) e responde diretamente à segunda parte da pergunta sobre como obter mais magnésio, enquanto a resposta do LLAMA é excessivamente técnica, menos organizada e termina com uma frase confusa.Tentar novamenteO Claude pode cometer erros. Confira sempre as respostas.",
+        "Gemini 2.5 pro": "Escolho a resposta DEEPSEEK porque fornece exemplos práticos de alimentos ricos em magnésio, respondendo diretamente a como obter mais."
+    },
+        "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - explicação mais clara e prática",
+        "Tiago": "Llama - diz algumas fontes de magnesium"
+    }
+  }
+}

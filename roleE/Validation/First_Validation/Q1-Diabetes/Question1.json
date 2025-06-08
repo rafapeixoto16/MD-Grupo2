@@ -1,0 +1,20 @@
+{
+  "Question1" :{
+    "question" : "What are dietary supplements and what are they for?",
+    "DefaultModel": {
+        "ChatGPT-4o":9 ,
+        "Claude Sonnet 4": 7.5,
+        "Gemini 2.5 pro": 8.5
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8.5,
+        "Claude Sonnet 4": 7.5,
+        "Gemini 2.5 pro": 9.3
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Deepseek - mais completa (mensao a protobioticos)",
+        "Claude Sonnet 4": "Deepseek - mais completa (mensao a protobioticos)",
+        "Gemini 2.5 pro": "Deepseek - mais completa (mensao a protobioticos)"
+    }
+  }
+}

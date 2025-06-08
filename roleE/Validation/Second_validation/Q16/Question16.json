@@ -1,0 +1,25 @@
+{
+  "Question1" :{
+    "question" : "Should pregnant women take supplements? Which ones?",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 9.5,
+        "Gemini 2.5 pro": 9
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4":  8.5,
+        "Gemini 2.5 pro": 9
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolha: DEEPSEEK\n\nJustificação: A resposta DEEPSEEK é mais completa, inclui recomendações oficiais (como as do governo do Reino Unido), aborda de forma clara os riscos do excesso de nutrientes, e reforça o equilíbrio entre suplementação e alimentação saudável, o que oferece uma orientação mais prática e confiável para o leitor.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "Escolho a resposta DEEPSEEK porque, além de cobrir as informações essenciais sobre suplementos necessários durante a gravidez (ácido fólico e vitamina D), fornece detalhes específicos sobre os riscos de sobredosagem (com exemplos concretos de vitamina A e ferro), inclui orientações específicas do governo do Reino Unido, e está melhor estruturada em parágrafos que facilitam a leitura e compreensão, incluindo uma conclusão clara e resumida.",
+        "Gemini 2.5 pro": " Escolho a resposta DEEPSEEK porque dá exemplos específicos dos perigos do excesso de suplementos (como a Vitamina A), tornando-a mais segura e informativa.\n"
+    },
+                "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - orientação mais prática e confiável",
+        "Tiago": "Llama - mais completa, da o exemplo do excesso de vitamina A"
+    }
+  }
+}

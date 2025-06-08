@@ -1,0 +1,24 @@
+{
+  "Question3" :{
+    "question" : "Are supplements regulated like medications?",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 8.5,
+        "Gemini 2.5 pro": 9
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":6,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 7
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolha: DEEPSEEK\n\nJustificação:\nA resposta DEEPSEEK é mais clara, direta e bem organizada, com linguagem objetiva e fluída — características típicas de um chatbot bem treinado para fornecer informações concisas e confiáveis.",
+         "Claude Sonnet 4": " DEEPSEEK.\nJustificação: A resposta do DEEPSEEK é superior devido à sua estrutura mais clara e lógica, menciona especificamente a legislação relevante (Dietary Supplement Health and Education Act de 1994), explica melhor o contraste entre os processos regulamentares, e termina de forma coerente sem erros de construção frásica como acontece na resposta do LLAMA que tem uma frase final confusa e mal estruturada.Tentar novamenteO Claude pode cometer erros. Confira sempre as respostas.",
+        "Gemini 2.5 pro": "DEEPSEEK\nJustificação: A sua estrutura é mais clara e a resposta é mais completa, mencionando a legislação específica (DSHEA) e a consequência de um produto alegar tratar uma doença."    }
+  },
+   "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - mais clara",
+        "Tiago": "Deepseek"
+    }
+}

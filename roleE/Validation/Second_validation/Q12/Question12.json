@@ -1,0 +1,25 @@
+{
+  "Question12" :{
+    "question" : "Is biotin effective in strengthening hair and nails? If so, the color of the nails will change.",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":"DEEPSEEK\n\nJustificação: A resposta DEEPSEEK é mais precisa e cientificamente crítica, pois destaca as limitações metodológicas dos estudos citados (como a ausência de controlo por placebo) e reforça que não há evidência sobre mudanças na cor das unhas, o que responde diretamente à pergunta com mais clareza e rigor.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "Escolho a resposta DEEPSEEK porque fornece informação mais específica (menciona a dosagem de 2.5 mg) e é mais crítica na análise dos estudos, explicando claramente as limitações metodológicas como a falta de controlo por placebo, além de fazer uma distinção importante entre os efeitos em adultos versus crianças.",
+        "Gemini 2.5 pro": "Escolho a resposta LLAMA porque inclui o aviso de segurança crucial sobre a sua interferência com exames laboratoriais.\n"
+    },
+    "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - novamente percentagens clarificam mais o utilizador",
+        "Tiago": "Llama - mais claro"
+    }
+  }
+}

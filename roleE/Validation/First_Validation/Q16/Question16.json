@@ -1,0 +1,24 @@
+{
+  "Question16" :{
+    "question" : "Should pregnant women take supplements? Which ones?",
+    "preferences": {
+        "age": 22,
+        "status":"pregnant"
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 7.5,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 1.\n\nJustificação: A Resposta 1 é mais completa ao incluir suplementos adicionais importantes como ferro, iodo e cálcio, além de explicar melhor quando e por que cada suplemento é necessário. Também reforça o cuidado com os limites máximos para evitar sobrecarga. Isso a torna mais informativa e prática para quem procura entender a suplementação na gravidez.",
+        "Claude Sonnet 4": "Resposta 2 porque ela apresenta a recomendação de suplementação de forma clara e concisa, destacando os suplementos essenciais—ácido fólico, vitamina D e ferro—e explicando brevemente seus benefícios. Além disso, enfatiza a importância de seguir as recomendações nutricionais para evitar sobrecarga e reforça a necessidade de consulta com um profissional de saúde, garantindo uma abordagem segura e personalizada.",
+        "Gemini 2.5 pro": " Resposta 1.\nJustificação: Menciona uma gama mais completa de micronutrientes cruciais (incluindo iodo e cálcio), além de especificar o momento ideal para alguns deles."
+    }
+  }
+}

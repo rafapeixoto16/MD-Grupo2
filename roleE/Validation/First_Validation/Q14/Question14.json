@@ -1,0 +1,20 @@
+{
+  "Question14" :{
+    "question" : "What vitamins are recommended to prevent osteoporosis? And if taking too much is harmful, what are the effects?",
+    "DefaultModel": {
+        "ChatGPT-4o":7,
+        "Claude Sonnet 4": 6,
+        "Gemini 2.5 pro": 5
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":7,
+        "Claude Sonnet 4": 5,
+        "Gemini 2.5 pro": 6
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 2\n\nJustificação:\nA Resposta 2 é mais clara e direta ao ponto, explicando de forma objetiva a relação entre vitamina D, cálcio e saúde óssea, além de mencionar de forma relevante os efeitos do excesso. Evita trazer elementos menos centrais (como o ferro), o que mantém o foco da resposta mais alinhado com a pergunta.",
+        "Claude Sonnet 4": "Resposta 1.\nJustificação: A Resposta 1 tem melhor redação e estrutura mais organizada, evitando a frase confusa \"before references\" da Resposta 2, além de apresentar informação adicional sobre toxicidade do ferro e orientações mais abrangentes sobre monitorização e dieta equilibrada.",
+        "Gemini 2.5 pro": "Escolho a Resposta 2 porque, embora ambas falhem em detalhar os efeitos do excesso da Vitamina D, a Resposta 2 ao menos foca no excesso de cálcio, que está diretamente ligado à toxicidade da Vitamina D."
+    }
+  }
+}

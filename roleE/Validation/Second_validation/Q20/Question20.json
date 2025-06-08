@@ -1,0 +1,28 @@
+{
+  "Question20" :{
+    "question" : "How do I know if I need a supplement and how long it takes for it to start working?",
+     "preferences": {
+        "age": 22
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 5.5,
+        "Gemini 2.5 pro": 6
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":7,
+        "Claude Sonnet 4": 6.5,
+        "Gemini 2.5 pro": 5
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolha: DEEPSEEK\n\nJustificação:\nA resposta DEEPSEEK apresenta uma estrutura mais fluida, linguagem mais natural e menos redundância. Ela oferece exemplos práticos (como veganos e deficiência de selénio) e orientações claras, mantendo um tom acessível e direto — características típicas de uma resposta gerada por chatbot bem treinado para fornecer informação confiável e fácil de compreender.",
+        "Claude Sonnet 4": "Escolho a resposta LLAMA porque fornece uma explicação mais detalhada e abrangente, listando um maior número de micronutrientes específicos (vitamina D, ferro, vitamina A, zinco, folato e iodina), abordando explicitamente os riscos de sobredosagem, e oferecendo informações mais específicas sobre como os profissionais de saúde podem ajudar (determinando dosagem, forma de administração, duração do tratamento e possíveis interações com medicamentos e exames), em comparação com a resposta mais concisa e generalista do DEEPSEEK.",
+        "Gemini 2.5 pro": "Escolho a resposta LLAMA porque fornece uma lista mais detalhada dos micronutrientes comumente necessários, tornando-a marginalmente mais informativa.\n"
+    },
+                "Manual": {
+        "Rafael": "LLama",
+        "Tone": "LLama - clarifica vários casos diferentes",
+        "Tiago": "Llama"
+    }
+  }
+}

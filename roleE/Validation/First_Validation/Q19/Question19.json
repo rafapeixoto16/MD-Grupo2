@@ -1,0 +1,20 @@
+{
+  "Question19" :{
+    "question" : "Do I need to get tested before starting to take supplements?\nWhat are the risks of buying supplements online?",
+    "DefaultModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 6
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 8
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 2\n\nJustificação: A resposta 2 é mais concisa, direta e ainda assim informativa. Ela cobre os dois temas com clareza — a importância de consultar um profissional e os riscos de comprar suplementos online — sem se alongar em excesso com exemplos genéricos ou repetitivos. Isso torna a informação mais acessível e focada para o utilizador.\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "Resposta 1, pois ela fornece uma explicação mais detalhada sobre os riscos envolvidos na compra de suplementos online, incluindo possíveis efeitos adversos e interações medicamentosas. Além disso, menciona profissionais específicos que podem orientar o usuário na escolha segura de suplementos e destaca a importância de verificar alegações enganosas nos produtos. Essa abordagem mais completa torna a resposta mais informativa e útil.",
+        "Gemini 2.5 pro": "Resposta 2.\nJustificação: Responde mais diretamente à necessidade de testes (mencionando que \"Testing may be recommended\") e identifica riscos mais específicos da compra online (produtos não regulados, falsificados)."
+    }
+  }
+}

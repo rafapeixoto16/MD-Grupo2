@@ -1,0 +1,25 @@
+{
+  "Question6" :{
+    "question" : "What are vitamins for? in particular vitamins C and D?",
+    "DefaultModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o": 9,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 8
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolho a resposta LLAMA.\n\nJustificação: Esta resposta é mais completa, apresentando não só os papéis clássicos das vitaminas C e D, mas também detalhando interações com outras vitaminas (como a K), os seus efeitos no microbioma e no tratamento de certas doenças. Além disso, enfatiza a necessidade de mais investigação e a importância de consultar profissionais, o que torna a resposta mais equilibrada e cientificamente responsável.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "Escolho a última resposta (DEEPSEEK).\nJustificativa: A resposta DEEPSEEK tem estrutura exemplar com organização clara, informações abrangentes e equilibradas sobre ambas as vitaminas, resumo eficaz e apresentação profissional, sendo significativamente superior às outras opções que eram muito limitadas ou desorganizadas.",
+        "Gemini 2.5 pro": " Escolho a resposta DEEPSEEK porque está melhor estruturada e usa uma linguagem mais clara, com um resumo final que facilita a compreensão.\n"
+    },
+    "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - explica melhor cada vitamina",
+        "Tiago": "Deepseek - mais completa"
+    }
+  }
+}

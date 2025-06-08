@@ -1,0 +1,25 @@
+{
+  "Question14" :{
+    "question" : "What vitamins are recommended to prevent osteoporosis? And if taking too much is harmful, what are the effects?",
+    "DefaultModel": {
+        "ChatGPT-4o":7,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8.5,
+        "Gemini 2.5 pro": 9
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolho a resposta LLAMA.\n\nJustificação: A resposta LLAMA é mais completa, explica melhor a importância da dieta equilibrada e dos minerais (como o cálcio) separadamente das vitaminas, destaca os riscos do excesso de minerais, e reforça a necessidade de orientação profissional, além de mencionar a importância da atividade física, que é relevante na prevenção da osteoporose.",
+        "Claude Sonnet 4": "Escolho a resposta LLAMA porque, além de listar as vitaminas essenciais, fornece informações mais práticas sobre fontes alimentares (frutas, vegetais, frutos do mar, laticínios), inclui a importância da atividade física na prevenção da osteoporose, e oferece uma explicação mais detalhada dos riscos potenciais, tornando a resposta mais completa e acionável para o usuário.",
+        "Gemini 2.5 pro": "Escolho a resposta DEEPSEEK porque responde a ambas as partes da pergunta, incluindo os efeitos do excesso de vitamina D, enquanto a outra resposta não o faz."
+    },
+    "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - preocupa-se mais com a alimentação",
+        "Tiago": "Deepseek - mais completa, exemplos de alimentos"
+    }
+  }
+}

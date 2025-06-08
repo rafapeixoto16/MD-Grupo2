@@ -1,0 +1,25 @@
+{
+  "Question1" :{
+    "question" : "Do I need to get tested before starting to take supplements?\nWhat are the risks of buying supplements online?",
+    "DefaultModel": {
+        "ChatGPT-4o":10,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 9
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Escolha: DEEPSEEK\n\nJustificação: A resposta do DEEPSEEK é mais clara, estruturada e direta, cobrindo de forma equilibrada ambos os tópicos da pergunta (necessidade de testes/consulta e riscos de compras online). Além disso, evita repetições e inclui uma conclusão útil com referência a fontes confiáveis (FDA e EFSA), tornando a resposta mais concisa e profissional.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "Copilot said: Escolho a resposta **DEEPSEEK** porque, embora ambas\nEscolho a resposta DEEPSEEK porque, embora ambas as respostas cubram pontos similares, a resposta do DEEPSEEK é mais concisa e melhor estruturada, incluindo informação específica sobre a EFSA (European Food Safety Authority) além da FDA, o que fornece uma perspectiva mais global sobre regulamentação de suplementos, e menciona explicitamente os riscos específicos relacionados a produtos botânicos sem histórico de uso seguro, tornando a resposta mais abrangente em termos de segurança do consumidor.",
+        "Gemini 2.5 pro": "Escolho a resposta LLAMA porque inclui o aviso crucial para desconfiar de suplementos que prometem \"curar, tratar ou prevenir\" doenças.\n"
+    },
+                "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - preocupação direta com a segurança do consumidor e clareza na informação",
+        "Tiago": "Llama - mais simples e direta"
+    }
+  }
+}

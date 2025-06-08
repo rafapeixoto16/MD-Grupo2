@@ -1,0 +1,24 @@
+{
+  "Question5" :{
+    "question" : "What can be the effects of taking supplements and medications at the same time?",
+    "preferences": {
+        "age": 50,
+        "health": "bad"
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 7
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 9.5,
+        "Gemini 2.5 pro": 8.2
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 2\nJustificativa: É mais clara, concisa e profissional. Fornece exemplos relevantes sem linguagem insensível como \"with bad health at the age of 50\", usada na Resposta 1, que pode soar ofensiva. A Resposta 2 mantém um tom mais respeitoso e objetivo.",
+        "Claude Sonnet 4": " A Resposta 2 é mais concisa e direta, fornecendo informações claras e específicas sobre interações e efeitos colaterais sem ser excessivamente detalhada, o que a torna mais acessível e fácil de entender.",
+        "Gemini 2.5 pro": "Resposta 2.\nJustificativa: A Resposta 2 fornece exemplos mais específicos e relevantes de interações medicamentosas, incluindo o dos ómega-3, e é ligeiramente mais concisa na sua apresentação."
+    }
+  }
+}

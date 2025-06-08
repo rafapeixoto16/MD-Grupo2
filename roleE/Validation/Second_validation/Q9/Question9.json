@@ -1,0 +1,25 @@
+{
+  "Question9" :{
+    "question" : "What are the best suplements to take when i go to the gym?",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 8,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 6,
+        "Gemini 2.5 pro": 10
+    },
+    "Chosen": {
+        "ChatGPT-4o":"DEEPSEEK.\n\nJustificação: É mais direta, organizada e orientada para o utilizador, destacando que a escolha depende dos objetivos individuais e mencionando suplementos específicos com explicações claras. Além disso, incentiva a consulta profissional e mantém um tom acessível e prático, ideal para um chatbot.",
+        "Claude Sonnet 4": "DEEPSEEK.\nJustificação: A resposta do DEEPSEEK é mais organizada e estruturada, começando com uma abordagem clara baseada em objetivos específicos (ganho muscular, performance, saúde geral). Apresenta a informação de forma mais concisa e direta, com melhor fluxo entre parágrafos, enquanto a resposta do LLAMA é mais dispersa, repetitiva e menos focada na pergunta principal do utilizador.",
+        "Gemini 2.5 pro": "Escolho a resposta DEEPSEEK porque responde imediatamente que \"depende dos seus objetivos\", o que é a abordagem mais correta e centrada no utilizador.\n"
+    },
+        "Manual": {
+        "Rafael": "Deepseek- % mais info",
+        "Tone": "Deepseek - utilização de percentagens",
+        "Tiago": "Llama - mais concisa e direta"
+    }
+  }
+}

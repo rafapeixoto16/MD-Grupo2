@@ -1,0 +1,20 @@
+{
+  "Question6" :{
+    "question" : "What are vitamins for? in particular vitamins C and D?",
+    "DefaultModel": {
+        "ChatGPT-4o":7,
+        "Claude Sonnet 4": 10,
+        "Gemini 2.5 pro": 8.8
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o": 4,
+        "Claude Sonnet 4": 6,
+        "Gemini 2.5 pro": 3.5
+    },
+    "Chosen": {
+        "ChatGPT-4o":"Resposta 1\n\nJustificativa: A Resposta 1 responde diretamente à pergunta sobre a função das vitaminas C e D, explicando com clareza e detalhe seus papéis no sistema imunológico, saúde óssea e cardiovascular. A Resposta 2, embora informativa, foca excessivamente em saúde oral infantil e menciona outras vitaminas (A, E, K) que não foram solicitadas, desviando-se do foco da pergunta.",
+        "Claude Sonnet 4": "Resposta 1 é mais relevante e abrangente em relação à pergunta específica sobre as vitaminas C e D, fornecendo informações detalhadas sobre suas funções e importância para a saúde geral, incluindo saúde óssea, imunológica e cardiovascular.",
+        "Gemini 2.5 pro": " Resposta 1. Justificativa: Responde diretamente sobre as vitaminas C e D e suas funções na saúde óssea, imunitária e cardiovascular, enquanto a Resposta 2 foca-se excessivamente na saúde oral e omite a vitamina C."
+    }
+  }
+}

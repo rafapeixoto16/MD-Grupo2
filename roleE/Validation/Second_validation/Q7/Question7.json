@@ -1,0 +1,28 @@
+{
+  "Question7" :{
+    "question" : "Talk me more about Vitamin C. Oranges really have that much?",
+    "preferences": {
+        "age": 7
+    },
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 10,
+        "Gemini 2.5 pro": 9.6
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 6,
+        "Gemini 2.5 pro": 8
+    },
+    "Chosen": {
+        "ChatGPT-4o":"DEEPSEEK.\n\nJustificação: A resposta da DEEPSEEK é mais concisa, fluida e melhor estruturada, mantendo o foco na pergunta (\"Oranges really have that much?\") e desenvolvendo a explicação com clareza e equilíbrio. Embora ambas as respostas sejam informativas, a da LLAMA torna-se excessivamente técnica e redundante, com menor fluidez típica de um chatbot bem treinado para conversas naturais.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": " Escolho a resposta do DEEPSEEK.\nJustificação: A resposta do DEEPSEEK é mais bem estruturada e organizada, apresentando a informação de forma mais clara e lógica. Começa com uma introdução concisa sobre a vitamina C, fornece dados específicos e comparativos sobre o conteúdo em laranjas versus outros alimentos, e termina com recomendações práticas. O texto flui melhor e é mais fácil de seguir, enquanto a resposta do LLAMA apresenta informação similar mas de forma menos coesa e com algumas repetições desnecessárias.",
+        "Gemini 2.5 pro": "Escolho a resposta DEEPSEEK porque está mais bem estruturada e conclui com um conselho prático sobre a importância de uma dieta variada.\n"
+    },
+    "Manual": {
+        "Rafael": "LLama - foca-se mais na pergunta",
+        "Tone": "LLama - foca-se mais nas laranjas",
+        "Tiago": "LLama - foco nas laranjas"
+    }
+  }
+}

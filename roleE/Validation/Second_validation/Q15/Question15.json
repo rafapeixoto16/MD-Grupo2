@@ -1,0 +1,25 @@
+{
+  "Question15" :{
+    "question" : "\nCan prolonged use of mediacation can cause nutritional deficiencies? If so, at what age?",
+    "DefaultModel": {
+        "ChatGPT-4o":6,
+        "Claude Sonnet 4": 5,
+        "Gemini 2.5 pro": 3
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 5
+    },
+    "Chosen": {
+        "ChatGPT-4o":" Escolha: LLAMA\n\nJustificação:\nA resposta do LLAMA é mais completa, abordando não apenas os grupos etários afetados (como o DEEPSEEK), mas também explicando diferentes tipos de deficiências nutricionais (ferro, B12, zinco, vitamina D) e suas possíveis consequências. Além disso, destaca que a deficiência pode ocorrer em qualquer idade dependendo das circunstâncias, o que demonstra maior abrangência e profundidade típica de um chatbot.\n\n\n\n\n\n\n\n\n",
+        "Claude Sonnet 4": "Escolho a resposta LLAMA porque é significativamente mais abrangente, incluindo não só informações sobre deficiência de ferro, mas também sobre outras deficiências nutricionais importantes (B12, zinco, vitamina D), seus potenciais efeitos na saúde (anemia, problemas de neurodesenvolvimento e pele), e oferece soluções práticas através de suplementação e abordagens alimentares, além de ter mais referências científicas que suportam a informação fornecida.",
+        "Gemini 2.5 pro": "Escolho a resposta LLAMA porque é mais detalhada e abrangente, apesar de ambas falharem em dar exemplos diretos de medicamentos.\n"
+    },
+    "Manual": {
+        "Rafael": "Deepseek",
+        "Tone": "Deepseek - mais abrangente e detalhada",
+        "Tiago": "Deepseek - mais completa"
+    }
+  }
+}

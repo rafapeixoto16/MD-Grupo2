@@ -1,0 +1,14 @@
+Dietary supplements and medicines differ primarily in their purpose, regulation, and function.
+ Dietary supplements are intended to enhance the diet by providing vitamins, minerals, herbs, or other dietary
+ ingredients, but they are not designed to treat, diagnose, cure, or prevent diseases. They are regulated by the
+  FDA but do not require pre-market approval, and their manufacturers are responsible for ensuring safety and truthful
+  labeling. In contrast, medicines are FDA-approved products specifically created to diagnose, treat, or prevent diseases,
+  undergoing stricter regulatory scrutiny. While supplements support overall health, medicines are targeted for therapeutic
+   or preventive purposes. Always consult healthcare professionals for personalized advice.
+
+References:
+- Dietary Supplements: What You Need to Know
+- FDA 101: Dietary Supplements
+- Questions and Answers on Dietary Supplements
+- Community Pharmacist's Awareness, Knowledge and Attitude Towards use of Vitamin Supplements in Pimpri-Chinchwad Municipal Corporation (PCMC) Area of Pune, India: A Descriptive Cross Sectional Study
+- Understanding Dietary Supplements

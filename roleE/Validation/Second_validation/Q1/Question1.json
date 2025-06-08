@@ -1,0 +1,25 @@
+{
+  "Question1" :{
+    "question" : "What are dietary supplements and what are they for?",
+    "DefaultModel": {
+        "ChatGPT-4o":9,
+        "Claude Sonnet 4": 7,
+        "Gemini 2.5 pro": 10
+    },
+    "ReasoningModel": {
+        "ChatGPT-4o":8,
+        "Claude Sonnet 4": 9,
+        "Gemini 2.5 pro": 8
+    },
+    "Chosen": {
+        "ChatGPT-4o":"A resposta DEEPSEEK é mais clara, concisa e bem estruturada, tornando-a mais eficaz para um chatbot, enquanto mantém a informação essencial e um tom equilibrado.",
+        "Claude Sonnet 4": "Escolho a resposta DEEPSEEK.\nJustificativa: A resposta DEEPSEEK é mais clara, concisa e bem estruturada, transmitindo todas as informações essenciais de forma organizada, enquanto a resposta LLAMA, apesar de mais detalhada, contém erros gramaticais e uma frase final confusa que prejudica a compreensão geral da mensagem.",
+        "Gemini 2.5 pro": "Escolho a resposta DEEPSEEK.\nJustificação: É mais concisa e bem escrita, transmitindo toda a informação essencial de forma mais clara e direta."
+    },
+    "Manual": {
+        "Rafael": "Deepseek - mais conteudo",
+        "Tone": "Deepseek - mais completa",
+        "Tiago": "Llama - melhor estruturada"
+    }
+  }
+}
