@@ -1,4 +1,4 @@
-# Topico 2 - Suplementos alimentares e outros fármacos para prevenção de doenças (2025)
+# Topico 2 - Suplementos alimentares e outros fármacos para prevenção de doenças (2024/2025)
 Trabalho realizado pelo grupo referente ao tópico 2
 
 # Elementos
