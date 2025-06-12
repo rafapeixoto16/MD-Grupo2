@@ -8,3 +8,23 @@ Trabalho realizado pelo grupo referente ao tópico 2
 - pg57867 : António Filipe Castro Silva
 - pg55998 : Rafael Conde Peixoto
 - pg55932 : Diogo Cardoso Ferreira
+
+# Estrutura do Repositório
+### `Data-roleC/` — Base de conhecimento
+
+Contém os dados e scripts responsáveis pela construção da base de conhecimento
+
+**Subpastas:**
+- `src/modules/`: Scripts que integram APIs de fontes académicas (PubMed, EuropePMC, etc.) e ferramentas como SpaCy e Pinecone.
+- `src/trusted_data/`: Scripts e ficheiros JSON com fontes de informação consideradas confiáveis.
+- `src/terms/`: Conjunto de termos relacionados com suplementos, fármacos ...
+
+**Scripts principais:**
+- `python src/main.py` — Preenche a base de dados com *abstracts* de artigos científicos (nível 2). É possível escolher as fontes a utilizar.
+- `python src/trust_data.py` — Preenche a base de dados com informação confiável (nível 1), a partir dos ficheiros JSON disponíveis em `src/trusted_data/`.
+
+---
+
+### `roleE/` — Agente e Validação
+
+Contém o código do agente e os ficheiros de perguntas/respostas utilizados para a fase de validação.
