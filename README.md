@@ -27,4 +27,6 @@ Contém os dados e scripts responsáveis pela construção da base de conhecimen
 
 ### `roleE/` — Agente e Validação
 
-Contém o código do agente e os ficheiros de perguntas/respostas utilizados para a fase de validação.
+Contém o código descontinuado do agente especifico mais os ficheiros de perguntas/respostas utilizados para as duas fases de validação realizadas.
+
+O agente é composto por um módulo de RAG, que utiliza a API do Pinecone para recuperação de contexto, e um componente de geração de texto, acionado via API do Together.ai.
