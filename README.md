@@ -30,3 +30,6 @@ Contém os dados e scripts responsáveis pela construção da base de conhecimen
 Contém o código descontinuado do agente especifico mais os ficheiros de perguntas/respostas utilizados para as duas fases de validação realizadas.
 
 O agente é composto por um módulo de RAG, que utiliza a API do Pinecone para recuperação de contexto, e um componente de geração de texto, acionado via API do Together.ai.
+
+A validação consistiu em questionar três modelos de linguagem distintos — ChatGPT, Claude (Sonnet-4) e Gemini — para avaliarem as perguntas. Como complemento, foi ainda solicitado a estes modelos que comparassem as respostas geradas. Na segunda fase da validação, foi realizada uma validação manual adicional como reforço ao processo automático.
+
